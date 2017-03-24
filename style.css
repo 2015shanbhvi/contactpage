@@ -1,0 +1,70 @@
+/*Debugging*/
+.border{
+  border: 1px solid black;
+}
+
+
+/* Divs */
+
+/*Testing div*/
+.first_div_parent{
+  text-align: center;
+
+}
+
+
+.first_div{
+  margin: auto;
+  text-align: left;
+  margin-left: 25px;
+  display: inline-block;
+
+
+}
+
+/**/
+
+
+.small-width{
+  margin: auto;
+  width: 40%;
+}
+
+.center-div{
+  margin: auto;
+  text-align: center;
+
+  padding-bottom: 5px;
+  padding-top: 5px;
+  /*border:5px*/
+}
+
+.top_padding{
+  padding-top: 15px;
+}
+
+/* Rounding the divs*/
+#rounded {
+    border-radius: 25px;
+    padding: 15px;
+    width: auto;
+    height: auto;
+}
+
+.center-text{
+  text-align: center;
+}
+
+/*For spacing out divs*/
+div.transparent{
+  opacity: 0;
+}
+
+/* Color and font divs */
+.foodie-color{
+  color: #1e123d;
+}
+
+.medium_opaque{
+  opacity: .5;
+}
